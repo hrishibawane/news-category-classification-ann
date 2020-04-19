@@ -1,5 +1,4 @@
 # news-category-classification-ann
-# News Classification
 
 Classify news into 41 categories like Politics, Education, Sports, Food & Drink, etc. based on headlines and/or short description.
 
